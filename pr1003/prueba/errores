@@ -1,0 +1,9 @@
+find: ‘/etc/polkit-1/localauthority’: Permission denied
+find: ‘/etc/ssl/private’: Permission denied
+find: ‘/root’: Permission denied
+find: ‘/mnt/d/$RECYCLE.BIN/S-1-5-21-2887572899-1823411741-1579776547-1001’: Permission denied
+find: ‘/mnt/d/$RECYCLE.BIN/S-1-5-21-2887572899-1823411741-1579776547-1003’: Permission denied
+find: ‘/mnt/d/$RECYCLE.BIN/S-1-5-21-2887572899-1823411741-1579776547-1006’: Permission denied
+find: ‘/mnt/d/$RECYCLE.BIN/S-1-5-21-2887572899-1823411741-1579776547-1007’: Permission denied
+find: ‘/mnt/d/$RECYCLE.BIN/S-1-5-21-2887572899-1823411741-1579776547-500’: Permission denied
+find: ‘/mnt/d/System Volume Information’: Permission denied
